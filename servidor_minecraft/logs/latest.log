@@ -128,3 +128,4 @@ Things may not work well.
 [30Aug2025 20:41:06.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [We Need to Go Deeper]
 [30Aug2025 20:42:53.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Monster Hunter]
 [30Aug2025 20:43:19.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved wrongly!
+[30Aug2025 20:47:18.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
