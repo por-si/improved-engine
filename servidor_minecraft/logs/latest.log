@@ -126,3 +126,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Sep2025 21:16:48.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [A Terrible Fortress]
 [07Sep2025 21:17:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Into Fire]
 [07Sep2025 21:18:48.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Take Aim]
+[07Sep2025 21:32:45.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Ice Bucket Challenge]
+[07Sep2025 21:38:15.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
