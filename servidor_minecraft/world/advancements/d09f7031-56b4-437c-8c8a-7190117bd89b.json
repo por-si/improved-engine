@@ -8,9 +8,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-01 02:08:45 +0000",
+      "minecraft:taiga": "2025-09-07 20:33:05 +0000",
       "minecraft:cherry_grove": "2025-06-01 02:08:23 +0000",
+      "minecraft:sunflower_plains": "2025-09-07 21:23:56 +0000",
+      "minecraft:birch_forest": "2025-09-07 20:40:50 +0000",
+      "minecraft:dark_forest": "2025-09-07 20:40:55 +0000",
+      "minecraft:river": "2025-09-07 20:39:20 +0000",
       "minecraft:dripstone_caves": "2025-06-14 00:21:04 +0000",
+      "minecraft:snowy_taiga": "2025-09-07 20:39:01 +0000",
+      "minecraft:grove": "2025-09-07 20:33:10 +0000",
+      "minecraft:cold_ocean": "2025-09-07 21:24:21 +0000",
+      "minecraft:forest": "2025-09-07 20:31:17 +0000",
+      "minecraft:lush_caves": "2025-09-07 20:45:15 +0000",
+      "minecraft:ocean": "2025-09-07 21:24:06 +0000",
       "minecraft:frozen_peaks": "2025-06-02 01:02:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-07 20:40:52 +0000",
       "minecraft:meadow": "2025-06-02 01:02:37 +0000",
       "minecraft:plains": "2025-06-02 01:02:32 +0000"
     },
@@ -650,7 +662,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:piglin": "2025-08-30 20:42:53 +0000",
-      "minecraft:zombie": "2025-08-30 20:46:28 +0000"
+      "minecraft:zombie": "2025-08-30 20:46:28 +0000",
+      "minecraft:drowned": "2025-09-07 20:51:58 +0000"
     },
     "done": false
   },
@@ -864,6 +877,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-09-07 21:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-07 20:41:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 20:16:55 +0000"
@@ -888,9 +913,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-07 20:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-09-07 21:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-09-07 20:46:44 +0000"
     },
     "done": true
   },
@@ -942,6 +985,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-07 20:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 20:16:55 +0000"
@@ -951,6 +1000,36 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-07 20:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-09-07 21:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-07 20:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-07 21:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-07 21:21:38 +0000"
     },
     "done": true
   },
@@ -969,6 +1048,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-09-07 20:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-07 21:25:32 +0000"
     },
     "done": true
   },
