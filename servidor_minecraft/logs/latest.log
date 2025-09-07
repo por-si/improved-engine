@@ -111,3 +111,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [07Sep2025 19:57:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ joined the game
 [07Sep2025 20:02:20.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/152, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
 [07Sep2025 20:03:09.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander moved too quickly! -17.27681747365932,-0.9742925393962594,-2.892308410273216
+[07Sep2025 20:15:56.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/132, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
