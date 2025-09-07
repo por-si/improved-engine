@@ -1,15 +1,15 @@
-[30Aug2025 20:13:40.994] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Aug2025 20:13:40.998] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[30Aug2025 20:13:42.069] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Aug2025 20:13:42.197] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/improved-engine/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30Aug2025 20:13:42.538] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 20:13:42.542] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 20:13:42.544] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 20:13:42.546] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 20:13:42.867] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[30Aug2025 20:13:44.764] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Aug2025 20:13:44.806] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Aug2025 20:13:44.934] [main/INFO] [Puzzles Lib/]: Loading 15 mods:
+[07Sep2025 19:55:56.675] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07Sep2025 19:55:56.680] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[07Sep2025 19:55:57.915] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07Sep2025 19:55:58.023] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/improved-engine/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07Sep2025 19:55:58.422] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07Sep2025 19:55:58.427] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Sep2025 19:55:58.431] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Sep2025 19:55:58.433] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-engine/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07Sep2025 19:55:58.824] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[07Sep2025 19:56:00.862] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07Sep2025 19:56:00.906] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07Sep2025 19:56:01.021] [main/INFO] [Puzzles Lib/]: Loading 15 mods:
 	- badpackets 0.4.3
 	- configured 2.2.3
 	- cupboard 1.20.1-2.6
@@ -25,25 +25,25 @@
 	- travelersbackpack 9.1.13
 	- waila 8.9.0
 	- wthit 8.9.0
-[30Aug2025 20:13:52.008] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stylisheffects:main
-[30Aug2025 20:13:52.056] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[30Aug2025 20:13:52.066] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[30Aug2025 20:13:52.099] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30Aug2025 20:13:52.099] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30Aug2025 20:13:52.612] [main/INFO] [journeymap/]: Initializing Packet Registries
-[30Aug2025 20:13:52.640] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[30Aug2025 20:13:52.640] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[30Aug2025 20:13:52.642] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[30Aug2025 20:13:52.643] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[30Aug2025 20:13:52.710] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
-[30Aug2025 20:13:52.733] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
-[30Aug2025 20:13:52.894] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
-[30Aug2025 20:13:52.948] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
-[30Aug2025 20:13:52.961] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Skipping disabled plugin waila:test
-[30Aug2025 20:13:52.987] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
-[30Aug2025 20:13:53.046] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[30Aug2025 20:13:53.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[30Aug2025 20:13:53.616] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[07Sep2025 19:56:08.590] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for stylisheffects:main
+[07Sep2025 19:56:08.669] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[07Sep2025 19:56:08.678] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[07Sep2025 19:56:08.749] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07Sep2025 19:56:08.750] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07Sep2025 19:56:09.331] [main/INFO] [journeymap/]: Initializing Packet Registries
+[07Sep2025 19:56:09.366] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[07Sep2025 19:56:09.366] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[07Sep2025 19:56:09.368] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[07Sep2025 19:56:09.368] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[07Sep2025 19:56:09.449] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:core at mcp.mobius.waila.plugin.core.WailaPluginCore
+[07Sep2025 19:56:09.489] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.WailaPluginVanilla
+[07Sep2025 19:56:09.538] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:harvest at mcp.mobius.waila.plugin.harvest.WailaPluginHarvest
+[07Sep2025 19:56:09.568] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:forge at mcp.mobius.waila.plugin.forge.WailaPluginForge
+[07Sep2025 19:56:09.576] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Skipping disabled plugin waila:test
+[07Sep2025 19:56:09.586] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin waila:extra at mcp.mobius.waila.plugin.extra.WailaPluginExtra
+[07Sep2025 19:56:09.744] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[07Sep2025 19:56:10.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[07Sep2025 19:56:10.702] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -58,94 +58,56 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[30Aug2025 20:13:53.617] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stylisheffects] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stylisheffects.json
-[30Aug2025 20:13:53.666] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stylisheffects] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[30Aug2025 20:13:53.669] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[30Aug2025 20:13:53.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.18 Target: 8.1.33
-[30Aug2025 20:13:53.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[30Aug2025 20:13:53.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[30Aug2025 20:13:53.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Aug2025 20:13:53.801] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[30Aug2025 20:13:53.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[30Aug2025 20:13:53.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.20 Target: 5.10.3
-[30Aug2025 20:13:53.935] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[30Aug2025 20:13:53.970] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.13 Target: 9.1.16
-[30Aug2025 20:13:55.182] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Aug2025 20:13:55.255] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-e4mc_minecraft (version 5.3.1 -> MISSING)
-forge (version 47.4.0 -> 47.3.7)
-Things may not work well.
-[30Aug2025 20:13:56.371] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/improved-engine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/assets/.mcassetsroot' uses unexpected schema
-[30Aug2025 20:13:56.372] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/improved-engine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/data/.mcassetsroot' uses unexpected schema
-[30Aug2025 20:13:56.418] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:e4mc_minecraft
-[30Aug2025 20:13:58.062] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[30Aug2025 20:13:58.202] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1502 advancements
-[30Aug2025 20:13:59.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Aug2025 20:13:59.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Aug2025 20:13:59.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Aug2025 20:13:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Aug2025 20:13:59.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Aug2025 20:13:59.290] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Aug2025 20:13:59.408] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Aug2025 20:13:59.409] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Aug2025 20:13:59.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[30Aug2025 20:13:59.410] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Aug2025 20:13:59.410] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.useItemWithDurationZero was corrected from false to its default, null. 
-[30Aug2025 20:13:59.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Aug2025 20:14:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Aug2025 20:14:08.319] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.321] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.322] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.323] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.325] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.326] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.327] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.328] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.328] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.329] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.330] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.360] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 20:14:08.860] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[30Aug2025 20:14:09.363] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[30Aug2025 20:14:09.802] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7442 ms
-[30Aug2025 20:14:09.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.398s)! For help, type "help"
-[30Aug2025 20:14:09.821] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Aug2025 20:14:09.822] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[30Aug2025 20:15:10.211] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player papusander is d09f7031-56b4-437c-8c8a-7190117bd89b
-[30Aug2025 20:15:12.822] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.8.175.196:50503] logged in with entity id 100 at (-473.48750001192093, 99.0, 266.90651947010747)
-[30Aug2025 20:15:12.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
-[30Aug2025 20:16:26.549] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Locky_JR_ is 3aa5181c-8d8c-4e30-a01d-e3adf457c2c6
-[30Aug2025 20:16:29.434] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Locky_JR_[/127.240.170.121:59621] logged in with entity id 493 at (-468.68924615950823, 94.0, 256.36995358030265)
-[30Aug2025 20:16:29.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ joined the game
-[30Aug2025 20:24:50.664] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70, l='ServerLevel[SanderGay]', x=28.70, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 20:33:44.659] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 20:36:39.266] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ lost connection: Disconnected
-[30Aug2025 20:36:39.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ left the game
-[30Aug2025 20:38:07.448] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Locky_JR_ is 3aa5181c-8d8c-4e30-a01d-e3adf457c2c6
-[30Aug2025 20:38:11.075] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Locky_JR_[/127.240.170.121:48879] logged in with entity id 7558 at (-57.277487508168335, 133.0, 27.624207505234082)
-[30Aug2025 20:38:11.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ joined the game
-[30Aug2025 20:41:06.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [We Need to Go Deeper]
-[30Aug2025 20:42:53.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Monster Hunter]
-[30Aug2025 20:43:19.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved wrongly!
-[30Aug2025 20:47:18.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/65, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 21:06:09.064] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5054, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 21:16:58.541] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minepop:minepop] rejected vanilla connections
-[30Aug2025 21:16:58.542] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.197.11.42:47201] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[30Aug2025 21:17:07.958] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10436, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 21:21:16.485] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minepop:minepop] rejected vanilla connections
-[30Aug2025 21:21:16.486] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.197.11.42:55787] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[30Aug2025 21:34:27.621] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minepop:minepop] rejected vanilla connections
-[30Aug2025 21:34:27.621] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.197.11.42:60737] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[30Aug2025 21:52:20.613] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18210, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 22:01:20.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21679, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
-[30Aug2025 22:16:53.437] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minepop:minepop] rejected vanilla connections
-[30Aug2025 22:16:53.438] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.236.202.94:49923] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[30Aug2025 22:20:10.430] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [minepop:minepop] rejected vanilla connections
-[30Aug2025 22:20:10.430] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.35.132.77:44011] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[30Aug2025 22:22:59.328] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.35.132.77:56379: Failed to verify username!
-[30Aug2025 22:22:59.331] [User Authenticator #4/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'Wezzly' tried to join with an invalid session
-[30Aug2025 22:22:59.375] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.35.132.77:56379 lost connection: Failed to verify username!
-[30Aug2025 22:23:16.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Stone Age]
-[30Aug2025 22:23:39.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/51, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
-[30Aug2025 22:34:54.712] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34463, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
+[07Sep2025 19:56:10.712] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stylisheffects] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/stylisheffects.json
+[07Sep2025 19:56:10.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [stylisheffects] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[07Sep2025 19:56:10.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[07Sep2025 19:56:10.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.18 Target: 8.1.33
+[07Sep2025 19:56:10.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[07Sep2025 19:56:10.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[07Sep2025 19:56:10.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07Sep2025 19:56:11.080] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07Sep2025 19:56:11.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[07Sep2025 19:56:11.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.20 Target: 5.10.3
+[07Sep2025 19:56:11.466] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[07Sep2025 19:56:11.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.13 Target: 9.1.16
+[07Sep2025 19:56:12.057] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07Sep2025 19:56:13.235] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/improved-engine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/assets/.mcassetsroot' uses unexpected schema
+[07Sep2025 19:56:13.236] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/improved-engine/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23123!/data/.mcassetsroot' uses unexpected schema
+[07Sep2025 19:56:14.968] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[07Sep2025 19:56:15.099] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1502 advancements
+[07Sep2025 19:56:16.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07Sep2025 19:56:16.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07Sep2025 19:56:16.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07Sep2025 19:56:16.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07Sep2025 19:56:16.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07Sep2025 19:56:16.137] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07Sep2025 19:56:16.285] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Sep2025 19:56:16.286] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Sep2025 19:56:16.288] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[07Sep2025 19:56:16.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[07Sep2025 19:56:19.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07Sep2025 19:56:23.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.787] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.808] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.832] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.858] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.880] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.903] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.919] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.941] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:23.950] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:24.179] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07Sep2025 19:56:24.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[07Sep2025 19:56:25.169] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[07Sep2025 19:56:25.584] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6417 ms
+[07Sep2025 19:56:25.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.304s)! For help, type "help"
+[07Sep2025 19:56:25.677] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07Sep2025 19:56:25.678] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[07Sep2025 19:56:48.317] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player papusander is d09f7031-56b4-437c-8c8a-7190117bd89b
+[07Sep2025 19:56:50.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:56641] logged in with entity id 209 at (-140.352742472678, 134.0, 4.4935680445600745)
+[07Sep2025 19:56:50.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
+[07Sep2025 19:57:01.261] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Locky_JR_ is 3aa5181c-8d8c-4e30-a01d-e3adf457c2c6
+[07Sep2025 19:57:05.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Locky_JR_[/127.240.170.121:46369] logged in with entity id 303 at (-48.1748460710678, 131.0, -1.4059263731858953)
+[07Sep2025 19:57:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ joined the game
+[07Sep2025 20:02:20.018] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/152, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
+[07Sep2025 20:03:09.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander moved too quickly! -17.27681747365932,-0.9742925393962594,-2.892308410273216
