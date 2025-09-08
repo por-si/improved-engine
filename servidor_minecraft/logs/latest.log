@@ -17,3 +17,4 @@
 [08Sep2025 00:16:43.169] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID 4d4017fc-d499-40b8-83fb-d5ecaab3f47b
 [08Sep2025 00:16:43.170] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -471 Y: 94 Z: 257
 [08Sep2025 00:16:43.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_ using [Seda :3]
+[08Sep2025 00:25:08.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
