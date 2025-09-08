@@ -22,3 +22,31 @@
 [08Sep2025 00:46:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Into Fire]
 [08Sep2025 00:57:00.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has completed the challenge [Hot Tourist Destinations]
 [08Sep2025 00:57:02.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
+[08Sep2025 01:18:13.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander lost connection: Disconnected
+[08Sep2025 01:18:13.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander left the game
+[08Sep2025 01:18:44.524] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player papusander is d09f7031-56b4-437c-8c8a-7190117bd89b
+[08Sep2025 01:18:48.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:39863] logged in with entity id 120168 at (210.69999998807907, 100.9375, -417.1817166450818)
+[08Sep2025 01:18:48.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
+[08Sep2025 01:21:33.678] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID e2a5549f-a528-4f6a-8865-4a147444933b
+[08Sep2025 01:21:33.678] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 130 Y: 94 Z: 1018
+[08Sep2025 01:21:33.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander tried to swim in lava
+[08Sep2025 01:24:55.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:25:29.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:25:37.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:25:44.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:25:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:26:06.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:26:35.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:26:52.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:27:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:27:15.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:27:26.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[08Sep2025 01:38:59.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Suit Up]
+[08Sep2025 01:40:48.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
+[08Sep2025 01:49:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Isn't It Iron Pick]
+[08Sep2025 01:51:12.117] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/62, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
+[08Sep2025 01:55:08.492] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID b7ed8017-94e8-4bfd-a607-7a961ec52026
+[08Sep2025 01:55:08.492] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -2231 Y: 63 Z: -713
+[08Sep2025 01:55:08.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander fell from a high place
+[08Sep2025 01:55:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <papusander> x:-2231 y:63 z:-713
+[08Sep2025 02:02:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Diamonds!]
