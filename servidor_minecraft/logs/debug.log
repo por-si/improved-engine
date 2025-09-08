@@ -1963,3 +1963,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Sep2025 02:02:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Diamonds!]
 [08Sep2025 02:03:31.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
 [08Sep2025 02:03:31.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[08Sep2025 02:08:31.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[08Sep2025 02:08:31.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[08Sep2025 02:11:19.534] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID da530b77-285d-4c6f-bc08-240cf56cb1db
+[08Sep2025 02:11:19.535] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -1244 Y: 65 Z: -422
+[08Sep2025 02:11:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander fell from a high place
+[08Sep2025 02:13:31.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[08Sep2025 02:13:31.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
