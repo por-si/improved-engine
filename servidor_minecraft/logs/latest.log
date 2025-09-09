@@ -115,3 +115,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Sep2025 02:03:20.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved wrongly!
 [09Sep2025 02:08:27.073] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
 [09Sep2025 02:21:29.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
+[09Sep2025 02:32:48.430] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID 938efa47-b034-4ab2-b070-b5625e46cab5
+[09Sep2025 02:32:48.432] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -88 Y: 194 Z: 92
+[09Sep2025 02:32:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander experienced kinetic energy
+[09Sep2025 02:33:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[09Sep2025 02:40:35.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:40:35.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:40:35.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:40:35.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:41:03.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=127, z=-91} BlockPos{x=53, y=123, z=-90}
+[09Sep2025 02:42:07.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=140, z=43} BlockPos{x=155, y=139, z=43}
+[09Sep2025 02:42:07.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=140, z=43} BlockPos{x=155, y=139, z=43}
+[09Sep2025 02:42:31.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=155, y=137, z=47} BlockPos{x=154, y=137, z=44}

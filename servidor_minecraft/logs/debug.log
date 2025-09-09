@@ -1755,3 +1755,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Sep2025 02:25:21.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
 [09Sep2025 02:30:21.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
 [09Sep2025 02:30:21.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[09Sep2025 02:32:48.430] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID 938efa47-b034-4ab2-b070-b5625e46cab5
+[09Sep2025 02:32:48.432] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -88 Y: 194 Z: 92
+[09Sep2025 02:32:48.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander experienced kinetic energy
+[09Sep2025 02:33:49.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
+[09Sep2025 02:35:21.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[09Sep2025 02:35:21.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[09Sep2025 02:40:21.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[09Sep2025 02:40:21.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[09Sep2025 02:40:35.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:40:35.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:40:35.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:40:35.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=51, y=127, z=-98} BlockPos{x=52, y=126, z=-99}
+[09Sep2025 02:41:03.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=52, y=127, z=-91} BlockPos{x=53, y=123, z=-90}
+[09Sep2025 02:42:07.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=140, z=43} BlockPos{x=155, y=139, z=43}
+[09Sep2025 02:42:07.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=140, z=43} BlockPos{x=155, y=139, z=43}
+[09Sep2025 02:42:31.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=155, y=137, z=47} BlockPos{x=154, y=137, z=44}
+[09Sep2025 02:45:21.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[09Sep2025 02:45:21.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[09Sep2025 02:50:21.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[09Sep2025 02:50:21.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
