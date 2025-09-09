@@ -114,3 +114,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Sep2025 01:56:36.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=138, z=4} BlockPos{x=-84, y=137, z=4}
 [09Sep2025 02:03:20.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved wrongly!
 [09Sep2025 02:08:27.073] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
+[09Sep2025 02:21:29.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/79, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
