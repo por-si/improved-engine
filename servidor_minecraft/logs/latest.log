@@ -117,3 +117,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Sep2025 23:01:33.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander fell from a high place
 [09Sep2025 23:02:51.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/145, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.30] died, message: 'Villager was squished too much'
 [09Sep2025 23:09:18.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [What a Deal!]
+[09Sep2025 23:25:31.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved too quickly! 1718.97154711427,36.43423354665202,443.1273667463242
+[09Sep2025 23:26:11.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24288, l='ServerLevel[SanderGay]', x=-2018.28, y=64.00, z=-375.37] died, message: 'Villager suffocated in a wall'
+[09Sep2025 23:26:11.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24485, l='ServerLevel[SanderGay]', x=-1946.63, y=63.50, z=-376.28] died, message: 'Villager suffocated in a wall'
+[09Sep2025 23:30:27.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Eye Spy]
