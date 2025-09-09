@@ -127,3 +127,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Sep2025 02:42:07.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=140, z=43} BlockPos{x=155, y=139, z=43}
 [09Sep2025 02:42:07.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=154, y=140, z=43} BlockPos{x=155, y=139, z=43}
 [09Sep2025 02:42:31.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=155, y=137, z=47} BlockPos{x=154, y=137, z=44}
+[09Sep2025 02:55:27.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:27.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:27.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:27.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:28.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:28.089] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:28.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:55:28.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=158, z=108} BlockPos{x=48, y=157, z=107}
+[09Sep2025 02:56:00.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Not Today, Thank You]
+[09Sep2025 03:11:15.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID f1f35e18-530f-4342-a1dd-b9443427c080
+[09Sep2025 03:11:15.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -173 Y: 126 Z: 8
+[09Sep2025 03:11:15.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander was slain by Locky_JR_
