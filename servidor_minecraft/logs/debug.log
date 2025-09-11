@@ -1738,3 +1738,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Sep2025 00:06:21.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
 [11Sep2025 00:06:21.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
 [11Sep2025 00:08:48.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/129, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
+[11Sep2025 00:11:21.492] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[11Sep2025 00:11:21.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[11Sep2025 00:16:21.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[11Sep2025 00:16:21.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[11Sep2025 00:21:21.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[11Sep2025 00:21:21.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
