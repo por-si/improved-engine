@@ -2715,6 +2715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-13 01:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-09-13 01:07:49 +0000"
@@ -2739,6 +2745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-13 01:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-09-13 01:07:49 +0000"
@@ -2754,6 +2766,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-13 01:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-13 01:53:53 +0000"
     },
     "done": true
   },
