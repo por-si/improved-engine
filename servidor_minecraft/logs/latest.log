@@ -110,3 +110,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13Sep2025 00:47:07.065] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player papusander is d09f7031-56b4-437c-8c8a-7190117bd89b
 [13Sep2025 00:47:09.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:54847] logged in with entity id 416 at (-145.3095800715979, 128.0, 5.300000011920929)
 [13Sep2025 00:47:09.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
+[13Sep2025 00:56:39.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77, l='ServerLevel[SanderGay]', x=28.30, y=108.00, z=-74.70] died, message: 'Villager was squished too much'
+[13Sep2025 00:57:06.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=129, y=191, z=-137} BlockPos{x=129, y=189, z=-137}
