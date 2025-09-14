@@ -114,3 +114,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Sep2025 02:05:38.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Locky_JR_[/127.240.170.121:34387] logged in with entity id 3303 at (36.5, 113.0, -76.5)
 [14Sep2025 02:05:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ joined the game
 [14Sep2025 02:12:23.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Getting an Upgrade]
+[14Sep2025 02:45:53.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gay 3'/15452, l='ServerLevel[SanderGay]', x=158.30, y=198.00, z=-143.80] died: Gay 3 burned to death
+[14Sep2025 02:50:40.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gay 1'/15454, l='ServerLevel[SanderGay]', x=39.70, y=86.00, z=-40.84] died: Gay 1 was slain by Locky_JR_
