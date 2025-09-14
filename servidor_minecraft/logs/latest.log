@@ -113,3 +113,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [14Sep2025 02:05:35.831] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Locky_JR_ is 3aa5181c-8d8c-4e30-a01d-e3adf457c2c6
 [14Sep2025 02:05:38.121] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Locky_JR_[/127.240.170.121:34387] logged in with entity id 3303 at (36.5, 113.0, -76.5)
 [14Sep2025 02:05:38.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ joined the game
+[14Sep2025 02:12:23.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Getting an Upgrade]
