@@ -180,3 +180,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Oct2025 02:54:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander left the game
 [01Oct2025 02:54:40.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:60905] logged in with entity id 49011 at (392.69999998807907, 107.0, -107.33513456130167)
 [01Oct2025 02:54:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
+[01Oct2025 03:16:41.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Diamonds!]
+[01Oct2025 03:18:32.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [A Seedy Place]
+[01Oct2025 03:20:47.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue has made the advancement [What a Deal!]
+[01Oct2025 03:32:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Ice Bucket Challenge]
