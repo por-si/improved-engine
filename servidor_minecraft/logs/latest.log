@@ -113,3 +113,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Oct2025 00:17:12.558] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting /127.103.253.249:35383: Failed to verify username!
 [01Oct2025 00:17:12.559] [User Authenticator #3/ERROR] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Username 'josue12' tried to join with an invalid session
 [01Oct2025 00:17:12.609] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.103.253.249:35383 lost connection: Failed to verify username!
+[01Oct2025 00:29:51.353] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player papusander is d09f7031-56b4-437c-8c8a-7190117bd89b
+[01Oct2025 00:29:53.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:57217] logged in with entity id 3859 at (-473.5, 99.0, 264.5)
+[01Oct2025 00:29:53.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
