@@ -2455,3 +2455,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Oct2025 03:32:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Ice Bucket Challenge]
 [01Oct2025 03:33:19.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
 [01Oct2025 03:33:19.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[01Oct2025 03:38:19.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[01Oct2025 03:38:19.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
+[01Oct2025 03:39:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [What a Deal!]
+[01Oct2025 03:43:19.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save SanderGay
+[01Oct2025 03:43:19.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete SanderGay
