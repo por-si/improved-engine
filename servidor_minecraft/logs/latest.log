@@ -147,3 +147,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Oct2025 01:49:22.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [We Need to Go Deeper]
 [01Oct2025 01:49:35.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [A Terrible Fortress]
 [01Oct2025 01:50:44.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Monster Hunter]
+[01Oct2025 01:54:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Into Fire]
+[01Oct2025 02:03:40.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enoc-Josue> T EE E E
+[01Oct2025 02:03:45.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papusander> ??
+[01Oct2025 02:07:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue has made the advancement [We Need to Go Deeper]
+[01Oct2025 02:09:05.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue has made the advancement [Diamonds!]
+[01Oct2025 02:11:34.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue has made the advancement [Monster Hunter]
+[01Oct2025 02:13:31.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue has made the advancement [A Terrible Fortress]
+[01Oct2025 02:14:34.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue has made the advancement [Into Fire]
+[01Oct2025 02:21:05.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Locky_JR_ has made the advancement [Stone Age]
+[01Oct2025 02:25:17.942] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander lost connection: Disconnected
+[01Oct2025 02:25:17.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander left the game
+[01Oct2025 02:26:18.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7eb43b9d[id=<null>,name=papusander,properties={},legacy=false] (/127.57.106.35:38123) lost connection: Disconnected
+[01Oct2025 02:26:24.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:45625] logged in with entity id 28908 at (-1619.9673976088047, 63.0, -426.3453345586937)
+[01Oct2025 02:26:24.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
+[01Oct2025 02:26:25.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved too quickly! -4.804606644947626,15.160693761446083,7.7473583131902615
+[01Oct2025 02:26:25.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Enoc-Josue moved too quickly! 14.682843987122226,-2.7596427564334363,8.838806541540748
+[01Oct2025 02:26:58.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <papusander> end: x:-1620 z:-427 y:63
+[01Oct2025 02:27:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Eye Spy]
+[01Oct2025 02:27:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [The End?]
+[01Oct2025 02:27:49.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander moved too quickly! 1719.0567739046382,36.30191982511295,443.19999998807907
