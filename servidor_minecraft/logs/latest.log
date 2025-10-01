@@ -167,3 +167,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [01Oct2025 02:27:47.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [Eye Spy]
 [01Oct2025 02:27:48.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander has made the advancement [The End?]
 [01Oct2025 02:27:49.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander moved too quickly! 1719.0567739046382,36.30191982511295,443.19999998807907
+[01Oct2025 02:40:45.204] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Enoc-Josue with unique ID eaf2a89b-b375-424d-b7b9-69ddf42ce84f
+[01Oct2025 02:40:45.206] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 57 Y: 91 Z: 1670
+[01Oct2025 02:40:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Enoc-Josue fell from a high place
+[01Oct2025 02:43:07.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved too quickly! -17.17603559580607,-2.019640061138574,1.8048484344435565
+[01Oct2025 02:43:08.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Enoc-Josue> ttj
+[01Oct2025 02:43:55.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Locky_JR_ moved too quickly! 8.897917873720758,-1.1583816189177583,15.292539119152934
+[01Oct2025 02:45:14.958] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for papusander with unique ID 20a9551f-6900-42bf-97df-59ae8fd77aab
+[01Oct2025 02:45:14.959] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 389 Y: 113 Z: -110
+[01Oct2025 02:45:14.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander fell from a high place
+[01Oct2025 02:54:23.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papusander lost connection: Disconnected
+[01Oct2025 02:54:23.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander left the game
+[01Oct2025 02:54:40.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papusander[/127.57.106.35:60905] logged in with entity id 49011 at (392.69999998807907, 107.0, -107.33513456130167)
+[01Oct2025 02:54:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papusander joined the game
